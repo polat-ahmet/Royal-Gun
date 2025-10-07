@@ -1,3 +1,6 @@
+# Royal Gun - 2D Top-Down Shooter Game made with Royal Core framework in Unity
+Demo Video: https://youtu.be/-kvfcM_Rl94
+
 # Royal Core — Feature-Driven Game Framework for Unity
 
 Royal Core is a **modular**, **loosely coupled** Unity framework built around a **Context-backed DI/Service Locator**, a clean **MVC** layer, and **Command/Port** based communication. It lets you assemble games as trees of **Features** (Core → Game → Lobby/Gameplay → Player/Enemy/…); each Feature has a deterministic lifecycle, resolves only the interfaces it needs, and can be added/removed on demand without touching unrelated code.
