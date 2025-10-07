@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 22b2a118bec34464db9e1efc1d9aaa3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7767825458192791414
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_0
+  - first:
+      213: 544940095198237271
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_1
+  - first:
+      213: -2696128796760984695
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_2
+  - first:
+      213: 245983824378091365
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_3
+  - first:
+      213: -5328959201323586139
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_4
+  - first:
+      213: 4782812808966670771
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_5
+  - first:
+      213: 1369584782056538977
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_6
+  - first:
+      213: 2061420141712076431
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_7
+  - first:
+      213: 5101541245942461407
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_8
+  - first:
+      213: -6429306315329809318
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_9
+  - first:
+      213: -484942659712133166
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_10
+  - first:
+      213: -1780500380249743786
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_11
+  - first:
+      213: -3126867895837618658
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_12
+  - first:
+      213: 2598225725020344516
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_13
+  - first:
+      213: -3224820254453236547
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_14
+  - first:
+      213: 4214932693695950330
+    second: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88ce27c6e3233490800000000000000
+      internalID: -7767825458192791414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752982e1124009700800000000000000
+      internalID: 544940095198237271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9833c50e42d659ad0800000000000000
+      internalID: -2696128796760984695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5675c882cf8e96300800000000000000
+      internalID: 245983824378091365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 79
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adee8627dbbb06b0800000000000000
+      internalID: -5328959201323586139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b985a9c8e6ff5240800000000000000
+      internalID: 4782812808966670771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 55
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163c2485a1eb10310800000000000000
+      internalID: 1369584782056538977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e659f62b2ab9c10800000000000000
+      internalID: 2061420141712076431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 54
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3776bebb05cc640800000000000000
+      internalID: 5101541245942461407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54579a58f386c6a0800000000000000
+      internalID: -6429306315329809318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 45
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7dc6768332549f0800000000000000
+      internalID: -484942659712133166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e14c076546a47e0800000000000000
+      internalID: -1780500380249743786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e860137322b94d0800000000000000
+      internalID: -3126867895837618658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 32
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c09e1ae780ce0420800000000000000
+      internalID: 2598225725020344516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 23
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc74dc70132f33d0800000000000000
+      internalID: -3224820254453236547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd6de704f27e7a30800000000000000
+      internalID: 4214932693695950330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_0: -7767825458192791414
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_1: 544940095198237271
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_10: -484942659712133166
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_11: -1780500380249743786
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_12: -3126867895837618658
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_13: 2598225725020344516
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_14: -3224820254453236547
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_15: 4214932693695950330
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_2: -2696128796760984695
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_3: 245983824378091365
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_4: -5328959201323586139
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_5: 4782812808966670771
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_6: 1369584782056538977
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_7: 2061420141712076431
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_8: 5101541245942461407
+      weapons-tilesheet-risingapocalypse-python-opengameart-publicdomaincc0-crediting-weaponstilesheetforshootergames-shoot-guns-pygame-zombie_9: -6429306315329809318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

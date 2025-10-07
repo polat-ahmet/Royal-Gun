@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 559f8d5796efe48ccbd77a199cf377a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3158735705195316373
+    second: Death Sprite-EnemyDieFx_05_0
+  - first:
+      213: -1853317568828177600
+    second: Death Sprite-EnemyDieFx_05_1
+  - first:
+      213: -8720755753354238607
+    second: Death Sprite-EnemyDieFx_05_2
+  - first:
+      213: 5575639315300736116
+    second: Death Sprite-EnemyDieFx_05_3
+  - first:
+      213: 8211731176456737056
+    second: Death Sprite-EnemyDieFx_05_4
+  - first:
+      213: 270759937097005244
+    second: Death Sprite-EnemyDieFx_05_5
+  - first:
+      213: 2016479707947831690
+    second: Death Sprite-EnemyDieFx_05_6
+  - first:
+      213: -6414381393882135197
+    second: Death Sprite-EnemyDieFx_05_7
+  - first:
+      213: 6726294456573388780
+    second: Death Sprite-EnemyDieFx_05_8
+  - first:
+      213: -3029893772241948895
+    second: Death Sprite-EnemyDieFx_05_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Death Sprite-EnemyDieFx_05_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 250
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594828f536516db20800000000000000
+      internalID: 3158735705195316373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Sprite-EnemyDieFx_05_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 341
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043810e8d71b746e0800000000000000
+      internalID: -1853317568828177600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Sprite-EnemyDieFx_05_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 324
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175606cc8d6a9f680800000000000000
+      internalID: -8720755753354238607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Sprite-EnemyDieFx_05_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 127
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cd3309a66a06d40800000000000000
+      internalID: 5575639315300736116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Sprite-EnemyDieFx_05_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 238
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02154b35ffde5f170800000000000000
+      internalID: 8211731176456737056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Sprite-EnemyDieFx_05_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 223
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8f21e6abee1c300800000000000000
+      internalID: 270759937097005244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Sprite-EnemyDieFx_05_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 172
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8193015c99fbfb10800000000000000
+      internalID: 2016479707947831690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Sprite-EnemyDieFx_05_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 194
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365c7cb6b1a8bf6a0800000000000000
+      internalID: -6414381393882135197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Sprite-EnemyDieFx_05_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 156
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce76cbabb29985d50800000000000000
+      internalID: 6726294456573388780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Sprite-EnemyDieFx_05_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 138
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fa95ecaa7a3f5d0800000000000000
+      internalID: -3029893772241948895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Death Sprite-EnemyDieFx_05_0: 3158735705195316373
+      Death Sprite-EnemyDieFx_05_1: -1853317568828177600
+      Death Sprite-EnemyDieFx_05_2: -8720755753354238607
+      Death Sprite-EnemyDieFx_05_3: 5575639315300736116
+      Death Sprite-EnemyDieFx_05_4: 8211731176456737056
+      Death Sprite-EnemyDieFx_05_5: 270759937097005244
+      Death Sprite-EnemyDieFx_05_6: 2016479707947831690
+      Death Sprite-EnemyDieFx_05_7: -6414381393882135197
+      Death Sprite-EnemyDieFx_05_8: 6726294456573388780
+      Death Sprite-EnemyDieFx_05_9: -3029893772241948895
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

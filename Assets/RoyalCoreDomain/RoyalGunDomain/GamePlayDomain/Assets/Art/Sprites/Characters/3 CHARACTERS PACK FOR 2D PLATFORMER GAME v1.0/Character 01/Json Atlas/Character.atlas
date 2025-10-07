@@ -1,0 +1,160 @@
+
+Character.png
+size: 1700, 414
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1612, 151
+  size: 70, 68
+  orig: 83, 82
+  offset: 6, 7
+  index: -1
+Box
+  rotate: false
+  xy: 2, 12
+  size: 484, 400
+  orig: 484, 400
+  offset: 0, 0
+  index: -1
+CarB
+  rotate: true
+  xy: 927, 129
+  size: 283, 282
+  orig: 315, 303
+  offset: 17, 7
+  index: -1
+CarF
+  rotate: false
+  xy: 488, 40
+  size: 437, 372
+  orig: 478, 401
+  offset: 16, 10
+  index: -1
+Eye1
+  rotate: false
+  xy: 647, 8
+  size: 48, 30
+  orig: 70, 46
+  offset: 13, 8
+  index: -1
+Eye2
+  rotate: false
+  xy: 788, 17
+  size: 47, 21
+  orig: 62, 38
+  offset: 7, 8
+  index: -1
+Eye3
+  rotate: false
+  xy: 697, 15
+  size: 49, 23
+  orig: 70, 40
+  offset: 12, 8
+  index: -1
+Hammer
+  rotate: false
+  xy: 1251, 9
+  size: 164, 130
+  orig: 181, 144
+  offset: 7, 6
+  index: -1
+HandB1
+  rotate: false
+  xy: 837, 2
+  size: 27, 36
+  orig: 38, 47
+  offset: 5, 4
+  index: -1
+HandB2
+  rotate: true
+  xy: 1657, 45
+  size: 39, 41
+  orig: 46, 47
+  offset: 3, 3
+  index: -1
+HandB3
+  rotate: true
+  xy: 488, 2
+  size: 36, 58
+  orig: 48, 66
+  offset: 5, 5
+  index: -1
+HandF1
+  rotate: true
+  xy: 748, 10
+  size: 28, 38
+  orig: 40, 51
+  offset: 8, 6
+  index: -1
+HandF2
+  rotate: false
+  xy: 1612, 30
+  size: 43, 54
+  orig: 49, 63
+  offset: 4, 5
+  index: -1
+HandF3
+  rotate: true
+  xy: 1612, 86
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 927, 3
+  size: 151, 124
+  orig: 170, 146
+  offset: 9, 11
+  index: -1
+Leg_B
+  rotate: false
+  xy: 548, 6
+  size: 48, 32
+  orig: 57, 41
+  offset: 4, 4
+  index: -1
+Leg_F
+  rotate: false
+  xy: 598, 6
+  size: 47, 32
+  orig: 58, 40
+  offset: 5, 4
+  index: -1
+ParachuteB
+  rotate: false
+  xy: 1417, 4
+  size: 193, 215
+  orig: 214, 244
+  offset: 8, 8
+  index: -1
+ParachuteF
+  rotate: true
+  xy: 1417, 221
+  size: 191, 247
+  orig: 221, 272
+  offset: 16, 12
+  index: -1
+Splat
+  rotate: false
+  xy: 1080, 11
+  size: 103, 116
+  orig: 127, 139
+  offset: 14, 10
+  index: -1
+Splat2
+  rotate: true
+  xy: 1211, 141
+  size: 271, 204
+  orig: 296, 237
+  offset: 13, 8
+  index: -1
+samurai
+  rotate: true
+  xy: 1185, 30
+  size: 97, 64
+  orig: 112, 77
+  offset: 8, 4
+  index: -1

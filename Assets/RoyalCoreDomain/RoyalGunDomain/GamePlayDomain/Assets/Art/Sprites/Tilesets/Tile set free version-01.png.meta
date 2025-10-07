@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: efa1990cf668f4c23840bacb03b1a6e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 864316277858351852
+    second: Tile set free version-01_0
+  - first:
+      213: 8506668178697128305
+    second: Tile set free version-01_1
+  - first:
+      213: -4737521277083063809
+    second: Tile set free version-01_2
+  - first:
+      213: 7179426423847265636
+    second: Tile set free version-01_3
+  - first:
+      213: -3539624437098723575
+    second: Tile set free version-01_4
+  - first:
+      213: -8504882183696798517
+    second: Tile set free version-01_5
+  - first:
+      213: 2312813280400413431
+    second: Tile set free version-01_6
+  - first:
+      213: -6180655999738450665
+    second: Tile set free version-01_7
+  - first:
+      213: -8813259960064984979
+    second: Tile set free version-01_8
+  - first:
+      213: -4393541911766513904
+    second: Tile set free version-01_9
+  - first:
+      213: -2919529697223212795
+    second: Tile set free version-01_10
+  - first:
+      213: 9158632299303915060
+    second: Tile set free version-01_11
+  - first:
+      213: 1936303578843086363
+    second: Tile set free version-01_12
+  - first:
+      213: -3901894654610322020
+    second: Tile set free version-01_13
+  - first:
+      213: 2935360941262088157
+    second: Tile set free version-01_14
+  - first:
+      213: -113196555200675940
+    second: Tile set free version-01_15
+  - first:
+      213: 2931924630549324242
+    second: Tile set free version-01_16
+  - first:
+      213: 8453378478626241245
+    second: Tile set free version-01_17
+  - first:
+      213: -2575694826403671180
+    second: Tile set free version-01_18
+  - first:
+      213: 8669816624762352761
+    second: Tile set free version-01_19
+  - first:
+      213: -2848812594531970128
+    second: Tile set free version-01_20
+  - first:
+      213: 636714925439776962
+    second: Tile set free version-01_21
+  - first:
+      213: 3510470945872580290
+    second: Tile set free version-01_22
+  - first:
+      213: -7205608075788399725
+    second: Tile set free version-01_23
+  - first:
+      213: 8809229548282862209
+    second: Tile set free version-01_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tile set free version-01_0
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 7142
+        width: 2108
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceab55b431baefb00800000000000000
+      internalID: 864316277858351852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_1
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 7148
+        width: 1165
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1798c5563a1cd0670800000000000000
+      internalID: 8506668178697128305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_2
+      rect:
+        serializedVersion: 2
+        x: 5058
+        y: 7103
+        width: 1153
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9eb9bbf71f04eb0800000000000000
+      internalID: -4737521277083063809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_3
+      rect:
+        serializedVersion: 2
+        x: 6854
+        y: 6585
+        width: 1047
+        height: 1047
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46528745b4272a360800000000000000
+      internalID: 7179426423847265636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 6058
+        width: 2108
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9074074045ab0eec0800000000000000
+      internalID: -3539624437098723575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_5
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 6116
+        width: 1765
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc2438f6b698f980800000000000000
+      internalID: -8504882183696798517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_6
+      rect:
+        serializedVersion: 2
+        x: 5328
+        y: 6323
+        width: 1154
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2921abc63c81020800000000000000
+      internalID: 2312813280400413431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_7
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 4438
+        width: 1252
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71de3b06d16e93aa0800000000000000
+      internalID: -6180655999738450665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_8
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 4408
+        width: 1077
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68372fc2c201b580800000000000000
+      internalID: -8813259960064984979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_9
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 4771
+        width: 213
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017cd53c8e00703c0800000000000000
+      internalID: -4393541911766513904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_10
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 4492
+        width: 901
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5018ecd653fbb77d0800000000000000
+      internalID: -2919529697223212795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_11
+      rect:
+        serializedVersion: 2
+        x: 4917
+        y: 4353
+        width: 1510
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ecd6c3d8ff91f70800000000000000
+      internalID: 9158632299303915060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_12
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2898
+        width: 799
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e724298d12fda10800000000000000
+      internalID: 1936303578843086363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_13
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 2898
+        width: 594
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dc4f81c7fa9d9c0800000000000000
+      internalID: -3901894654610322020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_14
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 2898
+        width: 527
+        height: 1142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7ab7f493f7cb820800000000000000
+      internalID: 2935360941262088157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_15
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 2898
+        width: 635
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f37713558dd6ef0800000000000000
+      internalID: -113196555200675940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_16
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2070
+        width: 999
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d16c10eae940b820800000000000000
+      internalID: 2931924630549324242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_17
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 2070
+        width: 655
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaf27a30fe605570800000000000000
+      internalID: 8453378478626241245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_18
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 2058
+        width: 348
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473d566b33b414cd0800000000000000
+      internalID: -2575694826403671180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_19
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 2058
+        width: 268
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9747cba1940615870800000000000000
+      internalID: 8669816624762352761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_20
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1883
+        width: 996
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b35347f90cf678d0800000000000000
+      internalID: -2848812594531970128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_21
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 377
+        width: 1165
+        height: 1134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8f60ae9d016d800800000000000000
+      internalID: 636714925439776962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_22
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 377
+        width: 1165
+        height: 1134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce801bd9b2b7b030800000000000000
+      internalID: 3510470945872580290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_23
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 377
+        width: 1165
+        height: 1134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b42fbc1a9800c90800000000000000
+      internalID: -7205608075788399725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set free version-01_24
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 377
+        width: 802
+        height: 1134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a5642d99ba04a70800000000000000
+      internalID: 8809229548282862209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tile set free version-01_0: 864316277858351852
+      Tile set free version-01_1: 8506668178697128305
+      Tile set free version-01_10: -2919529697223212795
+      Tile set free version-01_11: 9158632299303915060
+      Tile set free version-01_12: 1936303578843086363
+      Tile set free version-01_13: -3901894654610322020
+      Tile set free version-01_14: 2935360941262088157
+      Tile set free version-01_15: -113196555200675940
+      Tile set free version-01_16: 2931924630549324242
+      Tile set free version-01_17: 8453378478626241245
+      Tile set free version-01_18: -2575694826403671180
+      Tile set free version-01_19: 8669816624762352761
+      Tile set free version-01_2: -4737521277083063809
+      Tile set free version-01_20: -2848812594531970128
+      Tile set free version-01_21: 636714925439776962
+      Tile set free version-01_22: 3510470945872580290
+      Tile set free version-01_23: -7205608075788399725
+      Tile set free version-01_24: 8809229548282862209
+      Tile set free version-01_3: 7179426423847265636
+      Tile set free version-01_4: -3539624437098723575
+      Tile set free version-01_5: -8504882183696798517
+      Tile set free version-01_6: 2312813280400413431
+      Tile set free version-01_7: -6180655999738450665
+      Tile set free version-01_8: -8813259960064984979
+      Tile set free version-01_9: -4393541911766513904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

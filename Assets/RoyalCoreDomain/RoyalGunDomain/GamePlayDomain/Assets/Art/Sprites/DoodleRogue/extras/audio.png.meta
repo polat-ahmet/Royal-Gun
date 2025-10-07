@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 99c12531e65bb4a9b9762d7543d4e3b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4800741761136664645
+    second: audio_0
+  - first:
+      213: -6037983004969425167
+    second: audio_1
+  - first:
+      213: 4977584828845495272
+    second: audio_2
+  - first:
+      213: -505548009236548572
+    second: audio_3
+  - first:
+      213: -4708616226742282175
+    second: audio_4
+  - first:
+      213: -2494984471726316019
+    second: audio_5
+  - first:
+      213: 8113469767437137049
+    second: audio_6
+  - first:
+      213: 3973447573106019823
+    second: audio_7
+  - first:
+      213: 8861035409111647866
+    second: audio_8
+  - first:
+      213: 4506998321629817915
+    second: audio_9
+  - first:
+      213: 5167670219862203637
+    second: audio_10
+  - first:
+      213: -1985038127235062822
+    second: audio_11
+  - first:
+      213: -7669037584035165025
+    second: audio_12
+  - first:
+      213: 2464534547770043081
+    second: audio_13
+  - first:
+      213: -5949382621275230390
+    second: audio_14
+  - first:
+      213: -8953154750207125541
+    second: audio_15
+  - first:
+      213: 8985725646247053631
+    second: audio_16
+  - first:
+      213: 8170567668014142791
+    second: audio_17
+  - first:
+      213: 5589599961672418472
+    second: audio_18
+  - first:
+      213: 1369436387211212052
+    second: audio_19
+  - first:
+      213: -383850402019409432
+    second: audio_20
+  - first:
+      213: -8043692749691676022
+    second: audio_21
+  - first:
+      213: -8313680728882369482
+    second: audio_22
+  - first:
+      213: 2034432172598478340
+    second: audio_23
+  - first:
+      213: 8095840583374555546
+    second: audio_24
+  - first:
+      213: 59653222967036748
+    second: audio_25
+  - first:
+      213: 1164533500015501653
+    second: audio_26
+  - first:
+      213: 3783359960635161087
+    second: audio_27
+  - first:
+      213: 5617700049234687499
+    second: audio_28
+  - first:
+      213: -3107033098686849776
+    second: audio_29
+  - first:
+      213: -3186937876868585086
+    second: audio_30
+  - first:
+      213: 2205767353674819256
+    second: audio_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: audio_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 297
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5402fe24239af9240800000000000000
+      internalID: 4800741761136664645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 296
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6a3f49276c43ca0800000000000000
+      internalID: -6037983004969425167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 227
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e395ba870fe31540800000000000000
+      internalID: 4977584828845495272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 210
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424bc8c93ceebf8f0800000000000000
+      internalID: -505548009236548572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 225
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148d2653d72a7aeb0800000000000000
+      internalID: -4708616226742282175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 234
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0623aa87d8006dd0800000000000000
+      internalID: -2494984471726316019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 209
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99436f734c5d89070800000000000000
+      internalID: 8113469767437137049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 231
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed4f98f385842730800000000000000
+      internalID: 3973447573106019823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 131
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76024eb1c8b8fa70800000000000000
+      internalID: 8861035409111647866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ce60c28131c8e30800000000000000
+      internalID: 4506998321629817915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 124
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc504b7fa047b740800000000000000
+      internalID: 5167670219862203637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 139
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad32c88275ab374e0800000000000000
+      internalID: -1985038127235062822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 131
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cc67a13fa129590800000000000000
+      internalID: -7669037584035165025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 133
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cae2801d19c33220800000000000000
+      internalID: 2464534547770043081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 143
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fe102f60c8f6da0800000000000000
+      internalID: -5949382621275230390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 119
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd79dc6c03100c380800000000000000
+      internalID: -8953154750207125541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f394ca9edd5b3bc70800000000000000
+      internalID: 8985725646247053631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 134
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74556492100b36170800000000000000
+      internalID: 8170567668014142791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 34
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a48508dc8f329d40800000000000000
+      internalID: 5589599961672418472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415f73a7327310310800000000000000
+      internalID: 1369436387211212052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 51
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e10eb4d71a4caaf0800000000000000
+      internalID: -383850402019409432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 34
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a1e3cbf001f5090800000000000000
+      internalID: -8043692749691676022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_22
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 49
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ca4f2cc6fdf9c80800000000000000
+      internalID: -8313680728882369482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 41
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406cb573841cb3c10800000000000000
+      internalID: 2034432172598478340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 38
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a994b32fd143a5070800000000000000
+      internalID: 8095840583374555546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 38
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b48ac4a4ee3d000800000000000000
+      internalID: 59653222967036748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 45
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551677d5c01492010800000000000000
+      internalID: 1164533500015501653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 55
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9381fc6d1318430800000000000000
+      internalID: 3783359960635161087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 31
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f3515e6416fd40800000000000000
+      internalID: 5617700049234687499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 53
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d9367cbd991e4d0800000000000000
+      internalID: -3107033098686849776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 46
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289a208d2e8b5c3d0800000000000000
+      internalID: -3186937876868585086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audio_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 43
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6e0f4b8b57c9e10800000000000000
+      internalID: 2205767353674819256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      audio_0: 4800741761136664645
+      audio_1: -6037983004969425167
+      audio_10: 5167670219862203637
+      audio_11: -1985038127235062822
+      audio_12: -7669037584035165025
+      audio_13: 2464534547770043081
+      audio_14: -5949382621275230390
+      audio_15: -8953154750207125541
+      audio_16: 8985725646247053631
+      audio_17: 8170567668014142791
+      audio_18: 5589599961672418472
+      audio_19: 1369436387211212052
+      audio_2: 4977584828845495272
+      audio_20: -383850402019409432
+      audio_21: -8043692749691676022
+      audio_22: -8313680728882369482
+      audio_23: 2034432172598478340
+      audio_24: 8095840583374555546
+      audio_25: 59653222967036748
+      audio_26: 1164533500015501653
+      audio_27: 3783359960635161087
+      audio_28: 5617700049234687499
+      audio_29: -3107033098686849776
+      audio_3: -505548009236548572
+      audio_30: -3186937876868585086
+      audio_31: 2205767353674819256
+      audio_4: -4708616226742282175
+      audio_5: -2494984471726316019
+      audio_6: 8113469767437137049
+      audio_7: 3973447573106019823
+      audio_8: 8861035409111647866
+      audio_9: 4506998321629817915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

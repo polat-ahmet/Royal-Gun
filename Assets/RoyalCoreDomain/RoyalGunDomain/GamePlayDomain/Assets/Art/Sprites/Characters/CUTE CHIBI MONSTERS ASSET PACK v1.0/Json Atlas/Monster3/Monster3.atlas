@@ -1,0 +1,12 @@
+Monster3.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+Body
+bounds:454,215,207,237
+Box
+bounds:2,2,450,450
+Eyedrop
+bounds:454,126,88,87
+Mouth
+bounds:663,381,67,71
